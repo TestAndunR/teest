@@ -1,0 +1,9 @@
+{
+  "name": "teest",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "lodash": "4.17.11",
+    "slappforge-sdk-twitter": "0.0.2"
+  }
+}
